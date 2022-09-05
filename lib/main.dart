@@ -8,7 +8,8 @@ import 'package:responsive_framework/responsive_wrapper.dart';
 
 import 'views/search/search_page_view.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]).then(
     (_) => runApp(
       const MyApp(),
