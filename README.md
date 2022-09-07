@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# Gambar aplikasi
+# Gambar pada aplikasi
 
 ![Img 1](screenshot/1.png)
 ![Img 1](screenshot/2.png)
