@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+Link aplikasi : https://drive.google.com/file/d/1EXAFtNpu_MjQ_GsuUihE92VNC8azsYCY/view?usp=share_link
 
 # Gambar pada aplikasi
 
